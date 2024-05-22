@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+    max-width: 960px;
+    margin: auto;
+    line-height: 21px;
+    font-size: 12px;
+    background-color: #f8f9fa;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5rem;
+    letter-spacing: 1.2rem;
+    padding-top: 2.4rem;
+    padding-bottom: 2.4rem;
+    color: #5AB2FF;
+    font-weight: 200;
+    margin-bottom: 0;
+    color: #5AB2FF;
+}
+
+hr {
+    border: none;
+    background-color: lightgray;
+    height: 1px;
+}
+
+.title {
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-weight: 600;
+    letter-spacing: 0.4rem;
+}
+
+.main {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+.sectionLeft {
+    width: 35%;
+    border-right: 1px solid lightgray;
+}
+
+.sectionRight {
+    width: 65%;
+}
+
+section {
+    margin: auto 1rem 3rem 2rem;
+}
+
+
+h2 {
+    font-size: 1rem;
+    padding-bottom: 1rem;
+    font-weight: 200;
+    margin-bottom: 0;
+    color: #5AB2FF;
+}
+
+h3 {
+    font-size: 0.8rem;
+    font-weight: 600;
+    margin-bottom: 0.7rem;
+}
+
+
+i {
+    font-size: 0.9rem;
+    margin-right: 0.3rem;
+}
+
+ol {
+    margin-left: 1.5rem;
+    line-height: 1.6rem;
+}
+
+p {
+    margin-bottom: 0.5rem;
+}
